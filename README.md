@@ -1,1 +1,1 @@
-# my-shop
+# my-shop beta only files
